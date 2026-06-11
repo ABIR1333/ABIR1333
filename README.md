@@ -44,7 +44,6 @@ Currently focused on **Laravel**, **React**, ,**Java** and **MySQL**, while cont
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABIR1333&theme=react-dark" />
 </p>
----
 
 ## ⭐ Fun Fact
 I love turning ideas into real-world applications 🚀
