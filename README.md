@@ -32,18 +32,6 @@ Currently focused on **Laravel**, **React**, ,**Java** and **MySQL**, while cont
 
 ---
 
-## 🚀 Featured Project
-
-### 🏫 UniPilot – University Management System
-A complete system for managing:
-- Students 👨‍🎓
-- Professors 👨‍🏫
-- Attendance 📊
-- Academic data 📚
-
-Built with **Laravel + MySQL + Blade**
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
